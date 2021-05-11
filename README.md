@@ -2,7 +2,7 @@
 
 * Ruby version 3.0.1
 
-* Rails version 6.1.3
+* Rails version 6.1.3.2
 
 * Hotwired 7.0.0-beta-5
 
